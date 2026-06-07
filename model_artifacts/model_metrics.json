@@ -1,0 +1,15 @@
+{
+  "dataset_rows": 200,
+  "dataset_columns": 5,
+  "unique_sellers": 49,
+  "unique_bidders": 191,
+  "weight_mean": 3.085,
+  "weight_median": 2.0,
+  "weight_max": 56,
+  "baseline_cv_mae": 1.965,
+  "model_cv_mae": 1.7939,
+  "model_cv_r2": 0.0456,
+  "test_mae": 1.6655,
+  "test_rmse": 2.5625,
+  "test_r2": 0.0847
+}
